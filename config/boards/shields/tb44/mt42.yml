@@ -1,8 +1,8 @@
 file_format: "1"
-id: tb44
-name: tb44
+id: mt42
+name: mt42
 type: shield
-url: https://github.com/os55010/zmk-config-tb44
+url: https://github.com/os55010/mt42
 requires: [xiao_ble//zmk]
 features:
   - keys

@@ -1,6 +1,6 @@
-if SHIELD_TB44
+if SHIELD_MT42
 
 config ZMK_KEYBOARD_NAME
-default "tb44"
+default "mt42"
 
 endif
