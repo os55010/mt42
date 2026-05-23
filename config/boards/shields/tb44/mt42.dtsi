@@ -6,7 +6,7 @@
         zmk,physical-layout = &mt42_physical_layout;
     };
 
-    tb44_physical_layout: mt42_physical_layout {
+    mt42_physical_layout: mt42_physical_layout {
         compatible = "zmk,physical-layout";
         display-name = "Default";
         transform = <&default_transform>;
