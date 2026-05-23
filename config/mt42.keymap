@@ -79,8 +79,8 @@
             bindings = <
                 &kp Q          &kp W         &kp E                &kp R        &kp T                &kp Y           &kp U         &kp I                 &kp O               &kp P                           &kp O
                 &kp A          &kp S         &kp D                &kp F        &kp G                &kp H           &kp J         &kp K                 &kp L               &mo 1                           &kp MINUS
-                &kp Z          &kp X         &kp C                &kp V        &kp B                &kp N           &kp M         &kp LEFT_SHIFT        &kp UP_ARROW        &lt 3 RIGHT_SHIFT               &mkp MB2
-                &kp LCTRL      &kp LEFT_WIN  &lt 1 ESC            &lt 2 SPACE  &lt 5 TAB            &kp BACKSPACE   &kp ENTER     &kp LEFT_ARROW        &kp DOWN_ARROW      &kp RIGHT_ARROW                 &mkp MB1
+                &kp Z          &kp X         &kp C                &kp V        &kp B                &kp N           &kp M         &kp LEFT_SHIFT        &kp UP_ARROW        &lt 3 RIGHT_SHIFT               &mkp MB1
+                &kp LCTRL      &kp LEFT_WIN  &lt 1 ESC            &lt 2 SPACE  &lt 5 TAB            &kp BACKSPACE   &kp ENTER     &kp LEFT_ARROW        &kp DOWN_ARROW      &kp RIGHT_ARROW                 &mkp MB2
             >;
         };
 
@@ -88,8 +88,8 @@
             bindings = <
                 &kp MINUS      &kp EQUAL     &kp GRAVE            &kp R        &kp T        &kp PG_UP     &out OUT_TOG  &kp Y          &kp LEFT_ALT      &kp PSCRN    &kp O
                 &kp LBKT       &kp RBKT      &kp BACKSLASH        &kp SEMI     &kp SQT      &kp PG_DN     &kp J         &kp K          &kp L      &kp P        &kp MINUS
-                &kp COMMA      &kp DOT       &kp SLASH            &kp V        &kp B        &kp LANG1     &kp LANG2     &kp M          &kp COMMA  &kp DOT      &mkp MB2
-                &mt LCTRL TAB  &kp LEFT_WIN  &mt LEFT_ALT DELETE  &lt 1 SPACE  &mkp MB1     &mkp MB2      &lt 2 SPACE   &kp BACKSPACE  &none      &none        &mkp MB1
+                &kp COMMA      &kp DOT       &kp SLASH            &kp V        &kp B        &kp LANG1     &kp LANG2     &kp M          &kp COMMA  &kp DOT      &mkp MB1
+                &mt LCTRL TAB  &kp LEFT_WIN  &mt LEFT_ALT DELETE  &lt 1 SPACE  &mkp MB1     &mkp MB2      &lt 2 SPACE   &kp BACKSPACE  &none      &none        &mkp MB2
             >;
         };
 
@@ -97,8 +97,8 @@
             bindings = <
                 &kp NUMBER_7   &kp NUMBER_8  &kp NUMBER_9         &kp R        &kp T        &kp Y     &out OUT_TOG  &kp Y          &kp U      &kp I    &kp O
                 &kp NUMBER_4   &kp NUMBER_5  &kp NUMBER_6         &kp F        &kp G        &kp H     &kp J         &kp K          &kp L      &kp P    &kp MINUS
-                &kp NUMBER_1   &kp NUMBER_2  &kp NUMBER_3         &kp V        &kp B        &kp B     &kp N         &kp M          &kp COMMA  &kp DOT  &mkp MB2
-                &kp NUMBER_0   &kp LEFT_WIN  &mt LEFT_ALT DELETE  &lt 1 SPACE  &mkp MB1     &mkp MB2  &lt 2 SPACE   &kp BACKSPACE  &none      &none    &mkp MB1
+                &kp NUMBER_1   &kp NUMBER_2  &kp NUMBER_3         &kp V        &kp B        &kp B     &kp N         &kp M          &kp COMMA  &kp DOT  &mkp MB1
+                &kp NUMBER_0   &kp LEFT_WIN  &mt LEFT_ALT DELETE  &lt 1 SPACE  &mkp MB1     &mkp MB2  &lt 2 SPACE   &kp BACKSPACE  &none      &none    &mkp MB2
             >;
         };
 
